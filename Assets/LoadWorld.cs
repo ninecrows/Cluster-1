@@ -9,7 +9,11 @@ public class LoadWorld : MonoBehaviour
     public GameObject starPrefab = null;
 
     // Total number of stars in the game.
-    public int starCount = 8000; //5 * 16;
+    public int starCount = 5 * 16;
+
+    public float areaRadius = 20.0f;
+
+    public float areaThickness = 5.0f;
 
     // Curiously there is no orange in the stock colors. I've faked it here to get my last star color.
     private Color[] colors = { Color.blue, Color.green, Color.yellow, Color.yellow, Color.red, Color.red, new Color(1.0f, 0.5f, 0.0f)};
@@ -22,11 +26,11 @@ public class LoadWorld : MonoBehaviour
             for (int thisStar = 0; thisStar < starCount; thisStar++)
             {
                 Color starColor = colors[Random.Range(0, colors.Length)];
-                var where = Random.insideUnitCircle * 100;
-                var height = Random.Range(10.0f, -10.0f);
+                var where = Random.insideUnitCircle * (areaRadius * 2);
+                var height = Random.Range(areaThickness / 2.0f, -(areaThickness / 2.0f));
 
                 var what = Instantiate(starPrefab);
-                what.transform.Translate(new Vector3(where.x, where.y, height));
+                what.transform.Translate(new Vector3(where.x, height, where.y));
                 what.GetComponent<Renderer>().material.color = starColor;                
             }
         }
