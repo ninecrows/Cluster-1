@@ -11,7 +11,8 @@ public class LoadWorld : MonoBehaviour
     // Total number of stars in the game.
     public int starCount = 8000; //5 * 16;
 
-    private Color[] colors = { Color.blue, Color.green, Color.yellow, Color.red,  new Color(1.0f, 0.5f, 0.0f)};
+    // Curiously there is no orange in the stock colors. I've faked it here to get my last star color.
+    private Color[] colors = { Color.blue, Color.green, Color.yellow, Color.yellow, Color.red, Color.red, new Color(1.0f, 0.5f, 0.0f)};
 
     // Start is called before the first frame update
     void Start()
@@ -20,7 +21,7 @@ public class LoadWorld : MonoBehaviour
         {
             for (int thisStar = 0; thisStar < starCount; thisStar++)
             {
-                Color starColor = colors[Random.Range(0, 5)];
+                Color starColor = colors[Random.Range(0, colors.Length)];
                 var where = Random.insideUnitCircle * 100;
                 var height = Random.Range(10.0f, -10.0f);
 
