@@ -42,3 +42,61 @@ public class LoadWorld : MonoBehaviour
         
     }
 }
+
+/**
+ * We support four players, one of each color. This tag identifies each player.6
+ * 
+ */
+enum PlayerIdentity
+{ 
+    RedPlayer, GreenPlayer, BluePlayer, YellowPlayer
+}
+
+public class StarSystem
+{
+    string name = null;
+
+    // The interesting worlds in the sytem
+    private List<World> worlds = null;
+
+    // Need variables to track ships in this system
+    private List<Fleet> localShips; 
+}
+
+public class Fleet
+{
+    PlayerIdentity owner;
+
+    string fleetName;
+
+    // Need variables to track ships in this system
+    int scouts = 0;
+    int patrol = 0;
+    int assault = 0;
+    int capital = 0;
+    int colony = 0;
+}
+
+public class World
+{
+    // The production multiplier for this world. Resource rich worlds have a higher production multiplier.
+    private float productionMultiplier = 1.0f;
+
+    // Population growth multiplier. This can be zero (could be less than zero on particularly hostile planets).
+    private float populationMultilpier = 1.0f / 5.0f;
+
+    // If true then this planet can only be settled with domed city capability.
+    private bool requiresDomedCities = false;
+
+    // Identity of the owner of this system or null if the systrem is unowned.
+    private PlayerIdentity? systemOwner = null;
+
+
+    // System defenses for this planet.
+    int defenseBoats = 0;
+    int monitors = 0;
+
+    // Local resources.
+    int population = 0;
+    int factories = 0;
+}
