@@ -1,0 +1,1614 @@
+10 Tauri	
+107 Piscium	
+107 Piscium	
+11 Leonis Minoris	
+111 Tauri	
+12 Ophiuchi	
+14 Andromedae A
+16 Tauri
+17 Tauri
+18 Delphini
+18 Scorpii	
+19 Tauri Aa
+20 Leonis Minoris	
+20 Tauri
+21 Tauri A
+22 G. Fornacis
+23 Tauri Aa
+24 G. Virginis
+26 Draconis	
+27 Tauri Aa1
+28 Tauri Aa
+285 G. Puppis
+31 Lyncis
+32 G. Eridani
+36 Ophiuchi
+36 Ophiuchi	
+36 Ursae Majoris	
+36 Ursae Majoris	
+38 Boötis
+39 Arietis
+40 Eridani A
+41 Arietis Aa
+41 G. Arae	
+41 Lyncis
+42 Draconis A
+44 Boötis	
+46 Leonis Minoris
+47 Ursae Majoris
+47 Ursae Majoris	
+51 Andromedae
+51 Andromedae
+51 Pegasi
+53 Eridani A
+54 Piscium	
+55 Cancri A
+58 Eridani	
+61 Cygni	
+61 Ursae Majoris	
+61 Virginis	
+62 G. Scorpii
+7 Draconis
+70 Ophiuchi	
+72 Herculis	
+8 Draconis
+80 Ursae Majoris Ca
+82 G. Eridani	
+85 Pegasi	
+86 G. Sagittarii
+AB Doradus	
+Acamar
+Acamar	
+Achernar
+Achernar	
+Achird
+Achird
+Acrab
+Acrux
+Acrux
+Acubens
+Acubens
+Adara
+Adhafera
+Adhafera
+Adhara
+Adhil
+Adhil
+Ads 7251	
+Aetos Dios
+Agena
+Ain
+Ain
+Ain al Rami
+Ainalrami
+Akrab
+Al Anz
+Al Giedi
+Al Kalb al Rai
+Al Kalb al Rai 
+Al Kalb al Rai 
+Al Minliar al Asad
+Al Minliar al Asad
+Al Minliar al Asad 
+Al Minliar al Shuja
+Al Thalim
+Al Thalimain 
+Aladfar
+Aladfar
+Alamak 
+Alaraph
+Alarph
+Alathfar
+Alathfar
+Albaldah
+Albaldah
+Albali
+Albali
+Albireo
+Albireo
+Alchiba
+Alchiba
+Alcor
+Alcor
+Alcyone
+Alcyone
+Aldebaran
+Aldebaran
+Alderamin
+Alderamin
+Alderamin	
+Aldhafera
+Aldhanab
+Aldhibah
+Aldhibah
+Aldib
+Aldulfin
+Alfecca Meridiana
+Alfecca Meridiana 
+Alfirk
+Alfirk
+Alfonsine 
+Algedi
+Algenib
+Algenib
+Algieba
+Algieba
+Algiedi Secunda
+Algol
+Algol
+Algorab
+Algorab
+Alhena
+Alhena
+Alioth
+Alioth
+Aljanah
+Alkaid
+Alkaid
+Alkalurops
+Alkalurops
+Alkaphrah
+Alkarab
+Alkes
+Alkes
+Alkurah 
+Alkurhah
+Almaak
+Almaaz
+Almach
+Alnair
+Alnair
+Alnasl
+Alnath
+Alnath
+Alnilam
+Alnilam
+Alnitak
+Alnitak
+Alniyat
+Alniyat
+Alniyat
+Alphard
+Alphard
+Alphecca
+Alphekka
+Alphekka Meridiana
+Alpheratz
+Alpheratz
+Alpherg
+Alrai
+Alrai 
+Alrakis
+Alrami 
+Alrescha
+Alrisha
+Alruba
+Alsafi
+Alsafi
+Alsciaukat
+Alsciaukat
+Alsephina
+Alshain
+Alshain
+Alshat
+Alshat
+Alsuhail
+Altair
+Altair
+Altair
+Altais
+Altarf
+Alterf
+Alterf
+Aludra
+Aludra
+Alula Australis
+Alula Australis
+Alula Borealis
+Alula Borealis
+Alya
+Alya
+Alzir
+Alzirr
+Alzirr
+Ancha
+Ancha
+Andromeda
+Andromeda
+Angetenar
+Angetenar
+Ankaa
+Ankaa
+Anser
+Anser
+Antares
+Antares
+Antecanis
+Aquarius
+Aquila
+Aquila
+Ara
+Arcturus
+Arcturus
+Arcturus
+Arich 
+Aries
+Arkab Posterior
+Arkab Posterior
+Arkab Prior
+Arkab Prior
+Armus 
+Arneb
+Arneb
+Arrakis
+Arrakis
+Arundhati
+Ascella
+Ascella
+Asellus Australis
+Asellus Australis
+Asellus Borealis
+Asellus Borealis
+Asellus Primus
+Asellus Primus 
+Asellus Primus 
+Asellus Secondus
+Asellus Secundus 
+Asellus Secundus 
+Asellus Tertius
+Asellus Tertius 
+Asellus Tertius 
+Ashlesha
+Ashtaroth
+Askella 
+Asmidiske 
+Aspidiske
+Asterion 
+Asterope
+Asterope
+Asteroth
+Athebyne
+Atik
+Atik
+Atlas
+Atlas
+Atria
+Aulax
+Auriga
+Auriga
+Auva
+Auva 
+Avior
+Avior
+Azaleh 
+Azelfafage
+Azelfafage
+Azha
+Azha
+Azimech
+Azmidi
+Azmidiske
+BD-17 588	
+Baham
+Baham 
+Barnard's Star
+Baten Kaitos
+Baten Kaitos
+Becrux
+Becrux
+Beemim
+Beemin
+Beid
+Beid
+Bellatrix
+Bellatrix
+Benetnasch 
+Beta Hydri	
+Betelgeuse
+Betelgeuse
+Betria 
+Bharani
+Biham
+Botein
+Botein
+Boötes
+Boötes
+Brachium
+Brachium
+Brandenburgicum
+Bunda
+Camelopardalis
+Cancer
+Canes Venatici
+Canes Venatici
+Canis Major
+Canis Major
+Canis Minor
+Canopus
+Canopus
+Capella
+Capella
+Capella	
+Caph
+Caph
+Capra 
+Capricornus
+Capricornus
+Carina
+Cassiopeia
+Castor
+Castor
+Castula
+Cebalrai
+Cebalrai
+Celaeno
+Celaeno
+Centaurus
+Cepheus
+Cepheus
+Cervantes
+Cetus
+Cetus
+Chalawan
+Chamukuy
+Chara
+Chara
+Chara 
+Cheleb 
+Chertan
+Chitra
+Chort
+Chort
+Chow 
+Cingulum Latratoris
+Coeli
+Columba
+Coma Berenices
+Copernicus
+Cor Caroli
+Cor Caroli
+Corona Australis
+Corona Australis
+Corona Borealis
+Corvus
+Corvus
+Crater
+Crux
+Cujam
+Cursa
+Cursa
+Cygnus
+Cygnus
+Dabih
+Dabih
+Dalim
+Dath
+Delphinus
+Delphinus
+Deneb
+Deneb
+Deneb Algedi
+Deneb Algedi
+Deneb Dulfim
+Deneb Dulfim 
+Deneb Kaitos
+Deneb Kaitos Schemali 
+Deneb Kaitos Shemali
+Deneb el Okab
+Deneb el Okab
+Denebola
+Denebola
+Denebola	
+Dheneb
+Dheneb 
+Diadem
+Diadem
+Diphda
+Diphda
+Dnoces 
+Draco
+Draco
+Dschubba
+Dschubba
+Dsiban
+Dubhe
+Dubhe
+Duhr 
+Dziban
+EE Leonis	
+EQ Pegasi	
+Ed Asich
+Edasich
+Elakrab
+Electra
+Electra
+Elgafar
+Elkarti
+Elkurud
+Elmuthalleth 
+Elnath
+Elnath
+Elrakis
+Eltanin
+Enif
+Enif
+Equuleus
+Eridanus
+Eridanus
+Errai
+Etamin
+Etamin
+Fafnir
+Fang
+Fawaris
+Felis
+Fomalhaut
+Fomalhaut
+Fomalhaut
+Fomalhaut 
+Fornacis
+Fornax
+Fu Yue
+Fulu
+Fum al Samakah
+Fum al Samakah 
+Fumalsamakah
+Furud
+Furud
+Furuhjelm 46	
+Fuyue
+G 141-36	
+G 192-13	
+G 41-14	
+G Capricorni
+G Scorpii
+GJ 1068	
+GJ 1128	
+GJ 1151	
+GJ 1286	
+GJ 3991	
+GJ 4053	
+GJ 4063	
+GJ 4248	
+GJ 4274	
+GJ 699
+GL Virginis	
+Gacrux
+Gacrux
+Garnet Star
+Gatria 
+Gemini
+Gemini
+Gemma
+Gianfar
+Gianfar
+Giausar
+Giedi 
+Gienah
+Gienah Cygni
+Gienah Ghurab
+Gienah Gurab
+Ginan
+Girtab 
+Gliese 1021	
+Gliese 105
+Gliese 105	
+Gliese 1279
+Gliese 146	
+Gliese 167	
+Gliese 169	
+Gliese 204 
+Gliese 2046	
+Gliese 259 
+Gliese 269	
+Gliese 282	
+Gliese 299	
+Gliese 320	
+Gliese 349 
+Gliese 370	
+Gliese 393	
+Gliese 42	
+Gliese 420 
+Gliese 428 
+Gliese 435
+Gliese 453	
+Gliese 481	
+Gliese 481 
+Gliese 5	
+Gliese 505	
+Gliese 514	
+Gliese 52
+Gliese 528
+Gliese 529	
+Gliese 532 
+Gliese 542	
+Gliese 546 
+Gliese 556 
+Gliese 570
+Gliese 581	
+Gliese 604 
+Gliese 611 
+Gliese 613	
+Gliese 615	
+Gliese 625	
+Gliese 638
+Gliese 656	
+Gliese 667
+Gliese 667	
+Gliese 67	
+Gliese 673 	
+Gliese 675	
+Gliese 688	
+Gliese 69	
+Gliese 716	
+Gliese 726	
+Gliese 738	
+Gliese 784	
+Gliese 785
+Gliese 796	
+Gliese 833 
+Gliese 853	
+Gliese 86	
+Gliese 868	
+Gliese 880	
+Gliese 884
+Gliese 892
+Gliese 898	
+Gliese 902	
+Gnosia
+Gnosia Stella Coronae
+Gomeisa
+Gomeisa
+Gorgonea Quarta
+Gorgonea Secunda
+Gorgonea Tertia
+Gorgonea Tertia 
+Graffias
+Graffias 
+Grafias
+Groombridge 1618
+Groombridge 1830
+Grumium
+Grumium
+Grus
+Gudja
+Guniibuu
+HD 102365
+HD 104304
+HD 104985
+HD 14412
+HD 147513
+HD 149026
+HD 150689 
+HD 161693
+HD 166348 
+HD 172051
+HD 17925
+HD 192310
+HD 199305	
+HD 23356 
+HD 36003	
+HD 4628	
+HD 4628 
+HD 50281
+HD 69830
+HD 85951
+HD 95872	
+HD 97584	
+HN Librae	
+HR 1614
+HR 3384	
+HR 4458
+HR 511	
+HR 5256	
+HR 5553	
+HR 6806	
+HR 7578	
+HR 7703 
+HR 8832	
+HR 9038	
+Hadar
+Hadar
+Haedi
+Haedus
+Haedus 
+Haftorang
+Haldus
+Hamal
+Hamal
+Hassaleh
+Hassaleh
+Hatysa
+Head of Hydrus
+Heka 
+Helvetios
+Hercules
+Herschel's "Garnet Star"
+Heze
+Heze
+Hoedus I
+Hoedus II
+Hoedus II 
+Homam
+Homam
+Horus
+Hyadum I
+Hyadum II
+Hydra
+Hydra
+Hydrobius 
+Iklil
+Imai
+Intercrus
+Izar
+Izar
+Jabbah
+Jabbah
+Jishui
+KOCAB
+Kabdhilinan 
+Kaffaljidhma
+Kaffaljidhma
+Kajam
+Kajam
+Kang
+Kanobos
+Kanopos
+Kastra 
+Kaus Australis
+Kaus Australis
+Kaus Borealis
+Kaus Borealis
+Kaus Media
+Kaus Meridionalis
+Keid
+Keid
+Khambalia
+Kitalpha
+Kitalpha
+Kochab
+Kornephoros
+Kornephoros
+Kraz
+Kraz
+Ksora
+Kuma
+Kuma 
+Kuma 
+Kurhah
+L 369-44	
+LHS 2090	
+LHS 3003	
+LHS 337	
+LHS 3508 
+LP 658-2	
+LP 944-20	
+LSPM J2146+3813	
+La Superba
+Lanx Australis
+Larawag
+Leo
+Leo
+Leo Minor
+Lepus
+Lesath
+Lesath
+Libertas
+Libra
+Libra
+Lich
+Lilii Borea
+Lucida Anseris
+Lucida Fortunæ Dissipantis
+Lucida Oppidi
+Lynx
+Lyra
+Lù
+Maasym
+Maasym
+Mahasim
+Maia
+Maia
+Marfak
+Marfak
+Marfark 
+Marfic
+Marfik
+Marfik
+Markab
+Markab
+Markeb
+Marsic
+Matar
+Matar
+Mebsuta
+Mebsuta
+Media 
+Megrez
+Megrez
+Meissa
+Meissa
+Mekbuda
+Mekbuda
+Meleph
+Menkab 
+Menkalinan
+Menkalinan
+Menkar
+Menkar
+Menkar
+Menkent
+Menkent
+Menkib
+Menkib
+Merak
+Merak
+Merga
+Merga
+Meridiana
+Merope
+Merope
+Mesarthim
+Mesarthim
+Metallah
+Miaplacidus
+Miaplacidus
+Mimosa
+Minchir
+Minelauva
+Minelava
+Minkar
+Minkar 
+Mintaka
+Mintaka
+Mira
+Mira
+Mirach
+Mirach
+Miram
+Miram
+Mirfak
+Mirphak
+Mirzam
+Misam
+Mizar
+Mizar
+Mothallah
+Mu Cassiopeiae	
+Mufrid
+Muliphein
+Muliphen
+Muphrid
+Murzim
+Murzim 
+Muscida
+Muscida
+Muscida
+Muscida
+Muscida 
+Musica
+Nahn
+Nair Al Saif 
+Nair al Saif
+Naos
+Naos
+Nash
+Nash 
+Nashira
+Nashira
+Navi
+Nekkar
+Nekkar
+Nembus
+Nembus 
+Nihal
+Nihal
+Niú Láng Xīng
+Nodus III
+Nodus Secundus
+Nunki
+Nunki
+Nusakan
+Nusakan
+Octans
+Oculus Boreus
+Ogma
+Okab
+Okul 
+Ophiuchus
+Ophiuchus
+Orion
+Orion
+Ou Geminorum	
+PSR B1257+12
+Paikauhale
+Palilicium
+Pavo
+Peacock
+Peacock
+Pegasus
+Pegasus
+Perseus
+Perseus
+Phact
+Phad
+Phad
+Phaet
+Phecda
+Phekda
+Pherkad
+Pherkad
+Pherkad Minor
+Phoenix
+Piautos
+Pipirima
+Pisces
+Pisces
+Piscis Austrinus
+Pleiades
+Pleione
+Pleione
+Pleso
+Polaris
+Polaris
+Polaris Australis
+Polaris Australis
+Polis
+Pollux
+Pollux
+Pollux	
+Porrima
+Porrima
+Praecipua
+Praecipua
+Prima Giedi
+Prima Hyadum
+Prima Virginum
+Procyon
+Procyon
+Propus
+Propus
+Propus
+Propus
+Proxima Centauri
+Pulcherrima
+Puppis
+Qiān Niú Xīng
+Quinque Dromedarii
+Quinta Struthionum
+Ran
+Rana
+Rana
+Rana 
+Ras Alhague	
+Ras Elased Australis
+Ras Elased Australis
+Ras Elased Borealis
+Ras Hammel
+Rasalas
+Rasalgethi
+Rasalgethi
+Rasalhague
+Rasalhague
+Rastaban
+Rastaban
+Regor
+Regulus
+Regulus
+Revati
+Riccoli
+Rigel
+Rigel
+Rigel Kentaurus
+Rigil Kentaurus
+Rijl al Awwa
+Rijl al Awwa 
+Rohini
+Ross 104	
+Ross 775	
+Rostrum Corvi
+Rostrum Gallinæ
+Rotanev
+Rotanev
+Ruchba
+Ruchba 
+Ruchbah
+Ruchbah
+Rukbat
+Rukbat
+SCR J0740−4257	
+SCR J1546−5534	
+SIMP J013656.5
+Sabik
+Sabik
+Saclateni
+Sadachbia
+Sadalachbia
+Sadalbari
+Sadalmelik
+Sadalmelik
+Sadalsuud
+Sadalsuud
+Sadatoni 
+Sadr
+Sadr
+Sagitta
+Sagittarius
+Sagittarius
+Saiph
+Saiph
+Salm
+Salm
+Sargas
+Sargas
+Sarin
+Sarin
+Sarir 
+Satevis
+Sceptrum
+Sceptrum
+Scheat
+Scheat
+Schedar
+Scheddi
+Schedir
+Scorpius
+Scorpius
+Secunda Giedi
+Secunda Giedi
+Secunda Hyadum
+Segin
+Segin
+Seginus
+Seginus
+Serpens
+Serpens
+Sham
+Sham
+Sharatan
+Shaula
+Shaula
+Shedir
+Sheliak
+Sheliak
+Sheratan
+Shurnarkabti-sha-shūtū
+Sinistra 
+Sirius
+Sirius
+Sirius
+Situla
+Situla
+Skalnate
+Skat
+Skat
+Sopdet
+Spica
+Spica
+Sterope II
+Stymphalian
+Sualocin
+Sualocin
+Subra
+Subra
+Suhail
+Suhail al Muhlif
+Suhail al Muhlif
+Sulafat
+Sulafat
+Syrma
+Syrma
+Sz Crateris	
+Tabit
+Tabit
+Tabit
+Tabit
+Tabit
+Taiyangshou
+Taiyi
+Takurua
+Talitha
+Talitha
+Talitha Borealis
+Tania Australis
+Tania Australis
+Tania Borealis
+Tania Borealis
+Tarazed
+Tarazed
+Tarazet
+Tarf
+Tascheter
+Tau Scorpii
+Taurus
+Taygeta
+Taygeta
+Tegmen
+Tegmen
+Tegmine
+Tejat
+Tejat Posterior
+Tejat Posterior
+Tejat Prior 
+Terebellum
+Terebellum
+Terebellum
+Terebellum
+Terebellum
+Thabit
+Thabit 
+Thabit 
+Theemim
+Theemin
+Thuban
+Thuban
+Tiaki
+Tianguan
+Tianyi
+Titawin
+Tiānguān
+Toliman
+Tonatiuh
+Torcular
+Torcularis Septentrionalis
+Triangulum
+Triangulum
+Triangulum Australe
+Triangulum Australe
+Turais
+Tureis
+Tyl
+Tyl 
+Tài Yáng Shǒu
+Tétouan
+Ukdah
+Ulugh Beg
+Unukalhai
+Unukalhai
+Unurgunite
+Ursa Major
+Ursa Major
+Ursa Minor
+V1054 Ophiuchi	
+V1654 Aquilae	
+V538 Aurigae	
+V834 Tau	
+VX Arietis	
+Vega
+Vega
+Vega
+Vela
+Venant
+Venator
+Veritate
+Vindemiatrix
+Vindemiatrix
+Virgo
+Virgo
+Vulpecula
+WISE 0313+7807	
+WISE 0410+1502	
+WISE 0713−2917	
+WISE 1928+2356	
+WISE 2056+1459	
+WISE J000517.48
+WISE J004945.61
+WISE J2209+2711	
+Wasat
+Wasat
+Wazn
+Wezen
+Wezen
+Wezn
+Wolf 635	
+Wurren
+Xamidimura
+Xi Boötis	
+Xi Scorpii
+Xuange
+Xuán Gē
+Y Canum Venaticorum
+Yed Posterior
+Yed Posterior
+Yed Prior
+Yed Prior
+Yildun
+Yildun
+Zaniah
+Zaniah
+Zaurac
+Zaurak
+Zaurak
+Zavijah
+Zavijava
+Zhang
+Zibal
+Zibal
+Zosma
+Zosma
+Zuben Elakrab
+Zuben Elakribi
+Zuben Elgenubi
+Zuben Elschemali
+Zuben-el-Akrab 
+Zuben-el-Akribi 
+Zubenelgenubi
+Zubenelhakrabi
+Zubeneschamali
+al-nahr 
+al-nakah
+al-quṭb
+al-sanam
+al-shamāliyy
+al-zubānā
+al-ḍafīrah
+al-ḥayyati
+alpha Delphini
+also Ras Algethi
+also Ras Alhgue
+al‑khawwār
+an-nasr al-wāqi
+arjat al-nahr
+baldah
+gamma Velorum
+garnet sidus
+graffias
+jabbār
+kithara
+lambda Velorum
+manḥar
+medina
+mirfaq
+p Eridani	
+see South Star
+vulture cadens
+zawraq
+Άντάρης
+α Andromedae Aa
+α Aquarii A
+α Aquilae
+α Arietis
+α Aurigae Aa
+α Boötis
+α Boötis
+α Cancri Aa
+α Canis Majoris
+α Canis Majoris A
+α Canis Minoris
+α Canis Minoris A
+α Canum Venaticorum
+α Canum Venaticorum Aa
+α Capricorni
+α Capricorni A
+α Carinae A
+α Cassiopeiae
+α Centauri	
+α Centauri A
+α Centauri B
+α Centauri C
+α Cephei
+α Ceti
+α Ceti
+α Columbae
+α Comae Berenices A
+α Coronae Australis
+α Coronae Australis
+α Coronae Borealis
+α Corvi
+α Corvi	
+α Crateris
+α Crucis Aa
+α Cygni
+α Delphini Aa
+α Draconis A
+α Equulei A
+α Eridani A
+α Fornacis	
+α Fornacis A
+α Geminorum Aa
+α Gruis
+α Herculis Aa
+α Hydrae
+α Leonis A
+α Leporis A
+α Librae Aa
+α Lyrae
+α Lyrae
+α Mensae	
+α Ophiuchi A
+α Orionis Aa
+α Pavonis Aa
+α Pegasi
+α Persei
+α Phoenicis
+α Piscis Austrini
+α Piscis Austrini A
+α Piscium A
+α Sagittae
+α Sagittarii
+α Sagittarii
+α Scorpii A
+α Serpentis
+α Tauri
+α Trianguli
+α Trianguli
+α Trianguli Australis
+α Ursae Majoris A
+α Ursae Minoris
+α Virginis Aa
+α Vulpeculae
+β Andromedae
+β Aquarii A
+β Aquilae	
+β Aquilae A
+β Arietis A
+β Aurigae Aa
+β Boötis
+β Cancri
+β Canis Majoris
+β Canis Majoris
+β Canis Minoris A
+β Canum Venaticorum
+β Canum Venaticorum	
+β Canum Venaticorum Aa
+β Capricorni Aa
+β Carinae
+β Cassiopeiae A
+β Centauri Aa
+β Cephei Aa
+β Ceti
+β Columbae
+β Comae Berenices	
+β Coronae Borealis A
+β Corvi
+β Crucis
+β Cygni Aa
+β Delphini A
+β Draconis A
+β Eridani
+β Geminorum
+β Gruis
+β Herculis Aa
+β Hydri	
+β Leonis
+β Leporis A
+β Librae
+β Lyrae Aa1
+β Ophiuchi
+β Ophiuchi
+β Orionis A
+β Pegasi
+β Persei Aa1
+β Piscium
+β Piscium
+β Sagittarii
+β Sagittarii A
+β Scorpii
+β Scorpii Aa
+β Serpentis
+β Tauri Aa
+β Trianguli Australis
+β Trianguli Australis	
+β Ursae Majoris
+β Ursae Minoris
+β Virginis
+β Virginis	
+γ Andromedae
+γ Andromedae A
+γ Aquarii Aa
+γ Aquilae
+γ Arietis A
+γ Boötis
+γ Boötis Aa
+γ Cancri Aa
+γ Canis Majoris
+γ Capricorni A
+γ Cassiopeia
+γ Cephei
+γ Cephei	
+γ Cephei Aa
+γ Ceti A
+γ Corvi A
+γ Crucis
+γ Cygni A
+γ Dra
+γ Draconis
+γ Eridani
+γ Geminorum Aa
+γ Gruis
+γ Leonis
+γ Leporis	
+γ Librae
+γ Librae A
+γ Lyrae
+γ Orionis
+γ Pavonis	
+γ Pegasi
+γ Sagittarii
+γ Sagittarii
+γ Serpentis	
+γ Tauri A
+γ Trianguli Australis
+γ Ursae Majoris Aa
+γ Ursae Minoris
+γ Velorum
+γ Virginis
+γ Virginis	
+γ Virginis A
+δ Aquarii A
+δ Arietis
+δ Cancri Aa
+δ Canis Majoris Aa
+δ Capricorni
+δ Capricorni	
+δ Capricorni Aa
+δ Cassiopeiae Aa
+δ Corvi A
+δ Crucis
+δ Cygni
+δ Draconis
+δ Eridani
+δ Eridani
+δ Eridani	
+δ Geminorum Aa
+δ Herculis Aa
+δ Leonis
+δ Leonis
+δ Librae
+δ Ophiuchi
+δ Orionis Aa
+δ Pavonis	
+δ Sagittarii
+δ Sagittarii
+δ Scorpii A
+δ Tauri Aa
+δ Trianguli	
+δ Ursae Majoris
+δ Ursae Minoris
+δ Velorum Aa
+δ Virginis
+δ Virginis
+ε Aquarii
+ε Aurigae
+ε Boötis A
+ε Cancri Aa
+ε Canis Majoris A
+ε Capricorni
+ε Carinae A
+ε Cassiopeia
+ε Corvi
+ε Crucis
+ε Cygni 
+ε Cygni Aa
+ε Delphini
+ε Delphini
+ε Draconis
+ε Eridani
+ε Eridani	
+ε Geminorum
+ε Hydrae
+ε Indi	
+ε Leonis
+ε Ophiuchi
+ε Orionis
+ε Pegasi
+ε Sagittarii A
+ε Scorpii
+ε Tauri Aa1
+ε Ursae Majoris A
+ε Virginis
+ζ Aquilae
+ζ Aurigae
+ζ Aurigae A
+ζ Cancri A
+ζ Canis Majoris Aa
+ζ Cassiopeiae
+ζ Ceti Aa
+ζ Doradus	
+ζ Draconis A
+ζ Eridani Aa
+ζ Geminorum Aa
+ζ Herculis	
+ζ Hydrae
+ζ Leonis Aa
+ζ Orionis Aa
+ζ Pegasi A
+ζ Phoenicis Aa
+ζ Piscium A
+ζ Puppis
+ζ Reticuli	
+ζ Reticuli	
+ζ Sagittarii
+ζ Sagittarii A
+ζ Tauri A
+ζ Trianguli Australis	
+ζ Tucanae	
+ζ Ursae Majoris Aa
+ζ Virginis
+η Aurigae
+η Aurigae
+η Boötis	
+η Boötis Aa
+η Canis Majoris
+η Capricorni
+η Cassiopeiae	
+η Cassiopeiae A
+η Cephei	
+η Ceti
+η Draconis
+η Draconis A
+η Eridani
+η Geminorum
+η Geminorum A
+η Lyrae Aa
+η Ophiuchi A
+η Pegasi Aa
+η Persei A
+η Piscium
+η Tauri A
+η Ursae Majoris
+η Ursae Majoris
+η Virginis Aa
+θ Aquarii
+θ Aurigae A
+θ Boötis
+θ Boötis
+θ Boötis	
+θ Cassiopeiae
+θ Centauri
+θ Columbae
+θ Eridani A
+θ Leonis
+θ Pegasi
+θ Pegasi
+θ Persei	
+θ Scorpii A
+θ Serpentis A
+θ Tauri Aa
+θ Ursae Majoris
+θ Ursae Majoris	
+ι Aquilae
+ι Aurigae
+ι Aurigae
+ι Boötis
+ι Boötis
+ι Carinae
+ι Ceti
+ι Draconis
+ι Hydrae
+ι Orionis
+ι Orionis Aa
+ι Pegasi	
+ι Persei	
+ι Piscium	
+ι UMa
+ι Ursae Majoris
+ι Ursae Majoris	
+ι Ursae Majoris Aa
+ι Virginis
+κ Aquarii A
+κ Boötis
+κ Boötis
+κ Ceti	
+κ Herculis A
+κ Leonis
+κ Leonis
+κ Orionis
+κ Persei Aa
+κ Scorpii
+κ Serpentis
+κ UMa
+κ Ursae Majoris A
+κ Velorum
+κ Virginis
+λ Aquilae
+λ Aurigae	
+λ Boötis
+λ Cancri A
+λ Draconis
+λ Herculis
+λ Leonis
+λ Ophiuchi A
+λ Orionis
+λ Orionis A
+λ Sagittarii
+λ Scorpii Aa
+λ Serpentis	
+λ Ursae Majoris A
+λ Velorum
+λ Virginis A
+μ Arae
+μ Boötis Aa
+μ Cassiopeiae	
+μ Cephei
+μ Draconis A
+μ Geminorum Aa
+μ Herculis	
+μ Leonis
+μ Lyrae
+μ Pegasi
+μ Sagittarii Aa
+μ Scorpii A
+μ Scorpii Aa
+μ Ursae Majoris A
+μ Virginis
+ν Capricorni A
+ν Draconis
+ν Draconis
+ν Lupi	
+ν Ophiuchi
+ν Phoenicis	
+ν Sagittarii A
+ν Scorpii Aa
+ν Ursae Majoris
+ξ Andromedae
+ξ Aquarii
+ξ Aquilae A
+ξ Boötis	
+ξ Cancri
+ξ Cephei
+ξ Cephei Aa
+ξ Draconis A
+ξ Geminorum
+ξ Persei
+ξ Puppis
+ξ Scorpii
+ξ Ursae Majoris	
+ξ Ursae Majoris Aa
+ο Ceti Aa
+ο Eridani
+ο Eridani	
+ο Geminorum
+ο Leonis Aa
+ο Persei A
+ο Piscium A
+ο Ursae Majoris A
+π Capricorni
+π Cygni
+π Orionis
+π Orionis	
+π Sagittarii A
+π Scorpii Aa
+π Ursae Majoris
+π Ursae Majoris	
+ρ Cancri	
+ρ Cephei
+ρ Cephei
+ρ Persei
+ρ Puppis A
+ρ Scorpii Aa
+σ Canis Majoris
+σ Draconis
+σ Draconis	
+σ Hydrae
+σ Librae A
+σ Octantis Aa
+σ Sagittarii Aa
+σ Scorpii Aa1
+τ Ceti	
+τ Eridani
+τ Eridani	
+τ Pegasi
+τ Scorpii
+υ Andromedae	
+υ Andromedae A
+υ Cassiopeiae
+υ Eridani
+υ Eridani
+υ Hydrae A
+υ Orionis
+υ Orionis
+υ Pegasi
+υ Scorpii
+φ Virginis
+χ Draconis	
+χ Orionis	
+χ Ursae Majoris
+ψ Capricorni	
+ψ Draconis
+ψ Draconis A
+ψ Serpentis	
+ω Cygni
+ω Herculis A
+ω Sag
+ω Sagittarii A

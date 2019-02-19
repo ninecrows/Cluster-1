@@ -1,0 +1,197 @@
++M4VI+M7V	
+10 Tauri	
+107 Piscium	
+11 Leonis Minoris	
+111 Tauri	
+18 Scorpii	
+20 Leonis Minoris	
+22 G. Fornacis
+24 G. Virginis
+26 Draconis	
+285 G. Puppis
+2MASS 1503+2525	
+2MASS 1507-1627	
+32 G. Eridani
+36 Ursae Majoris	
+36 Ursae Majoris	
+44 Boötis	
+47 Ursae Majoris	
+54 Piscium	
+58 Eridani	
+62 G. Scorpii
+72 Herculis	
+85 Pegasi	
+86 G. Sagittarii
+AB Doradus	
+ADS 7251	
+Alderamin	
+Arcturus
+BD-17 588	
+Beta Hydri	
+Capella	
+Denebola	
+EE Leonis	
+EQ Pegasi	
+Furuhjelm 46	
+G 141-36	
+G 192-13	
+G 41-14	
+GJ 1068	
+GJ 1128	
+GJ 1151	
+GJ 1286	
+GJ 3991	
+GJ 4053	
+GJ 4063	
+GJ 4248	
+GJ 4274	
+GL Virginis	
+Gliese 1021	
+Gliese 105	
+Gliese 1279
+Gliese 146	
+Gliese 167	
+Gliese 169	
+Gliese 204 
+Gliese 2046	
+Gliese 259 
+Gliese 269	
+Gliese 282	
+Gliese 299	
+Gliese 320	
+Gliese 349 
+Gliese 370	
+Gliese 393	
+Gliese 42	
+Gliese 420 
+Gliese 428 
+Gliese 435
+Gliese 453	
+Gliese 481	
+Gliese 481 
+Gliese 5	
+Gliese 505	
+Gliese 514	
+Gliese 52
+Gliese 528
+Gliese 529	
+Gliese 532 
+Gliese 542	
+Gliese 546 
+Gliese 556 
+Gliese 581	
+Gliese 604 
+Gliese 611 
+Gliese 613	
+Gliese 615	
+Gliese 625	
+Gliese 656	
+Gliese 667	
+Gliese 67	
+Gliese 675	
+Gliese 688	
+Gliese 69	
+Gliese 716	
+Gliese 726	
+Gliese 738	
+Gliese 784	
+Gliese 796	
+Gliese 833 
+Gliese 853	
+Gliese 86	
+Gliese 868	
+Gliese 880	
+Gliese 898	
+Gliese 902	
+HD 104304
+HD 14412
+HD 147513
+HD 150689 
+HD 166348 
+HD 172051
+HD 17925
+HD 199305	
+HD 23356 [nl]	
+HD 36003	
+HD 4628	
+HD 69830
+HD 95872	
+HD 97584	
+HN Librae	
+HR 3384	
+HR 511	
+HR 5256	
+HR 5553	
+HR 6806	
+HR 7578	
+HR 8832	
+HR 9038	
+L 369-44	
+LHS 2090	
+LHS 3003	
+LHS 337	
+LHS 3508 [it]	
+LP 658-2	
+LP 944-20	
+LSPM J2146+3813	
+Mu Cassiopeiae	
+OU Geminorum	
+Pollux	
+Ras Alhague	
+Ross 104	
+Ross 775	
+SCR J0740−4257	
+SCR J1546−5534	
+SIMP J013656.5+093347	
+SZ Crateris	
+V1054 Ophiuchi	
+V1654 Aquilae	
+V538 Aurigae	
+V834 Tau	
+VX Arietis	
+WISE 0313+7807	
+WISE 0410+1502	
+WISE 0713−2917	
+WISE 1928+2356	
+WISE 2056+1459	
+WISE J000517.48+373720.5	
+WISE J004945.61+215120.0	
+WISE J2209+2711	
+Wolf 635	
+Xi Boötis	
+α Boötis
+α Corvi	
+α Fornacis	
+α Mensae	
+β Aquilae	
+β Trianguli Australis	
+β Virginis	
+γ Cephei	
+γ Serpentis	
+γ Virginis	
+δ Capricorni	
+δ Trianguli	
+ζ Doradus	
+ζ Herculis	
+ζ Trianguli Australis	
+ζ1 Reticuli	
+ζ2 Reticuli	
+η Boötis	
+η Cephei	
+θ Boötis	
+θ Persei	
+θ Ursae Majoris	
+ι Pegasi	
+ι Persei	
+ι Piscium	
+ι Ursae Majoris	
+λ Aurigae	
+λ Serpentis	
+ν Phoenicis	
+ν2 Lupi	
+π1 Ursae Majoris	
+ρ1 Cancri	
+τ1 Eridani	
+υ Andromedae	
+ψ Capricorni	
+ψ Serpentis	

@@ -8,6 +8,9 @@ public class LoadWorld : MonoBehaviour
     // Model to use for stars...color will be replaced with one of the provided selections.
     public GameObject starPrefab = null;
 
+    // Prefab for the entry gates.
+    public GameObject gatePrefab = null;
+
     // Total number of stars in the game.
     public int starCount = 5 * 16;
 
@@ -26,12 +29,29 @@ public class LoadWorld : MonoBehaviour
             for (int thisStar = 0; thisStar < starCount; thisStar++)
             {
                 Color starColor = colors[Random.Range(0, colors.Length)];
-                var where = Random.insideUnitCircle * (areaRadius * 2);
+                var where = Random.insideUnitCircle * (areaRadius);
                 var height = Random.Range(areaThickness / 2.0f, -(areaThickness / 2.0f));
 
                 var what = Instantiate(starPrefab);
                 what.transform.Translate(new Vector3(where.x, height, where.y));
-                what.GetComponent<Renderer>().material.color = starColor;                
+                what.GetComponent<Renderer>().material.color = starColor;
+                what.GetComponent<Renderer>().material.SetColor("_EmissionColor", starColor);
+            }
+
+            if (gatePrefab != null)
+            {
+                var what = Instantiate(gatePrefab);
+                what.transform.Translate(new Vector3(areaRadius, -2.0f, areaRadius));
+
+                what = Instantiate(gatePrefab);
+                what.transform.Translate(new Vector3(areaRadius, -2.0f, -areaRadius));
+
+                what = Instantiate(gatePrefab);
+                what.transform.Translate(new Vector3(-areaRadius, -2.0f, areaRadius));
+
+                what = Instantiate(gatePrefab);
+                what.transform.Translate(new Vector3(-areaRadius, -2.0f, -areaRadius));
+
             }
         }
     }
