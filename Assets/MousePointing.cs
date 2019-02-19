@@ -20,6 +20,9 @@ public class MousePointing : MonoBehaviour
         // Input.GetMouseButtonDown(0)
 
         Ray ray = Camera.current.ScreenPointToRay(Input.mousePosition);
+        // ray = GvrBasePointer.PointerRay;
+
+        //GvrLaserPointerImpl laserPointerImpl = (GvrLaserPointerImpl)GvrPointerManager.Pointer;
 
         // Look to see if we hit something and if that something was a star. 
         RaycastHit hit;
