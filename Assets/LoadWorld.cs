@@ -33,7 +33,10 @@ public class LoadWorld : MonoBehaviour
                 var what = Instantiate(starPrefab, gameObject.transform);
                 what.transform.Translate(pos);
                 what.GetComponent<Renderer>().material.color = starColor;
-                what.GetComponent<Renderer>().material.SetColor("_EmissionColor", starColor);
+
+                Color emissionColor = starColor * 0.3f;
+
+                what.GetComponent<Renderer>().material.SetColor("_EmissionColor", emissionColor);
             }
         }
     }
